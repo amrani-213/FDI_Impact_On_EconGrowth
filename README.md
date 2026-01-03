@@ -26,7 +26,6 @@
 - [🧪 Econometric Procedure](#-econometric-procedure)
 - [📈 Key Findings](#-key-findings)
 - [🚀 Quick Start](#-quick-start)
-- [📁 Repository Structure](#-repository-structure)
 - [🛠️ Technologies Used](#️-technologies-used)
 - [📚 References](#-references)
 - [👤 Author](#-author)
