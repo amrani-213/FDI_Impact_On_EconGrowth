@@ -213,13 +213,17 @@ graph TD
     I --> J[6️⃣ Stability Tests]
     J --> K[End]
     
-    style B fill:#e1f5ff
-    style C fill:#e1f5ff
-    style D fill:#fff4e1
-    style F fill:#e8f5e9
-    style G fill:#ffe8e8
-    style I fill:#f3e5f5
-    style J fill:#f3e5f5
+    style A fill:#1f6feb,stroke:#58a6ff,stroke-width:3px,color:#fff
+    style B fill:#238636,stroke:#3fb950,stroke-width:3px,color:#fff
+    style C fill:#238636,stroke:#3fb950,stroke-width:3px,color:#fff
+    style D fill:#bf8700,stroke:#d29922,stroke-width:3px,color:#fff
+    style E fill:#8957e5,stroke:#a371f7,stroke-width:3px,color:#fff
+    style F fill:#1a7f37,stroke:#2ea043,stroke-width:3px,color:#fff
+    style G fill:#cf222e,stroke:#f85149,stroke-width:3px,color:#fff
+    style H fill:#0969da,stroke:#1f6feb,stroke-width:3px,color:#fff
+    style I fill:#6e40c9,stroke:#8957e5,stroke-width:3px,color:#fff
+    style J fill:#6e40c9,stroke:#8957e5,stroke-width:3px,color:#fff
+    style K fill:#1f6feb,stroke:#58a6ff,stroke-width:3px,color:#fff
 ```
 
 </div>
