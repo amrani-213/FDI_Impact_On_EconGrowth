@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🇩🇿 Foreign Direct Investment and Economic Growth in Algeria
+#  Foreign Direct Investment and Economic Growth in Algeria
 
 ### An ARDL Bounds Testing Approach (1990–2023)
 
